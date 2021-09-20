@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack software engineer from India
-- 🔭 Working on multiple frontend and backend project using Angular and Nodejs
+- 🔭 Working on multiple frontend and backend projects using Angular and Nodejs
 - 🌱 Practising DSA
 
 <br>
