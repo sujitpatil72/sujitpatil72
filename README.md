@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/sujitpatil72"><img src="https://api.daily.dev/devcards/3229e1dab106432ca814326c813f388d.png?r=0dc" width="400" alt="Sujit Patil's Dev Card"/></a>
 ### Hello World 👋
 I am a fullstack software engineer from India
 - 🔭 Working on multiple frontend and backend projects using Angular and Nodejs
