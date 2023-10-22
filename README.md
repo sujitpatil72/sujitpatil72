@@ -22,7 +22,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/sujit-patil-47468a130/"
+    href="https://www.linkedin.com/in/sujit-patil-47468a130/"
     target="blank"
     ><img
       align="center"
@@ -32,7 +32,7 @@
       width="40"
   /></a>
   <a
-    href="https://stackoverflow.com/users/https://stackoverflow.com/users/8169844/sujit-patil"
+    href="https://stackoverflow.com/users/8169844/sujit-patil"
     target="blank"
     ><img
       align="center"
