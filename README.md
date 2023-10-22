@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sujit Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working in **Pawzeeble** - 👨‍💻 All of my projects are
-available at [sujitpatil.com](sujitpatil.com) - 📝 I regularly write articles on
-[sujit-patil.medium.com](sujit-patil.medium.com) - 💬 Ask me about **React,
-Next.js, Angular, JavaScript and Node.js, MongoDB** - 📫 How to reach me
-**connectwithsujit@gmail.com**
+- 🔭 I’m currently working in **Pawzeeble**
+
+- 👨‍💻 All of my projects are available at [sujitpatil.com](sujitpatil.com)
+
+- 📝 I regularly write articles on [sujit-patil.medium.com](sujit-patil.medium.com)
+
+- 💬 Ask me about **React, Next.js, Angular, JavaScript and Node.js, MongoDB**
+
+- 📫 How to reach me **connectwithsujit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
