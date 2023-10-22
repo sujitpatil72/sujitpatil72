@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sujit Patil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working in **DOXIVA – Doctor's Intelligent Virtual Assistant**
-
-- 🌱 I’m currently learning **DSA**
+- 🔭 I’m currently working in **Pawzeeble**
 
 - 👨‍💻 All of my projects are available at [sujitpatil.com](sujitpatil.com)
 
 - 📝 I regularly write articles on [sujit-patil.medium.com](sujit-patil.medium.com)
 
-- 💬 Ask me about **Angular, JavaScript and Node.js**
+- 💬 Ask me about **React, Next.js, Angular, JavaScript and Node.js**
 
 - 📫 How to reach me **connectwithsujit@gmail.com**
 
